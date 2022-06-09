@@ -1,0 +1,6 @@
+Навыки кандидата:
+GitBash
+Мобильное тестирование (iOS, Android, гайдлайны)
+Dev Tools
+SQL
+Postman 
